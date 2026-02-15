@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,python,grafana,prometheus,git" />
@@ -24,29 +24,25 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📄 Resume
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreethamRaj9121&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethamRaj9121&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <a href="https://drive.google.com/your-resume-link">
+    <img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🏆 Certifications
-- AWS Certified Cloud Practitioner  
-- Azure Fundamentals (AZ-900)  
-- Terraform Associate (In Progress)
-
----
-
-### 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/preethamdarshanala">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:preethamraj363@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+  <a href="https://www.credly.com/badges/5d4971d0-860a-4a93-9b09-d54e20bca15b/public_url">
+    <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-gb/PreethamDarshanala-2141/A7F98223521221AC?sharingId=3B2A4BEC28CEAE0C">
+    <img src="https://img.shields.io/badge/Azure%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/Terraform%20Associate-In%20Progress-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
