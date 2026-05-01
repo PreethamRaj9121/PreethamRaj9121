@@ -27,7 +27,7 @@
 ### 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/your-resume-link">
+  <a href="https://drive.google.com/file/d/1AG2eZpUBVw8YPx0yd1y0QUkZZsw0xeLF/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
