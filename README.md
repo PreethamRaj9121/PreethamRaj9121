@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 💼 DevOps Engineer at **Amdocs (AT&T Project)**
-- ☁️ 2.5+ Years in Azure, AWS & Kubernetes
+- ☁️ 3+ Years in Azure, AWS & Kubernetes
 - 📉 Reduced infra cost by **37% (~$400K savings)**
 - ⚡ Improved deployment speed by **40%**
 - 🎯 Focused on Cloud • Automation • Scalability
